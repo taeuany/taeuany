@@ -1,10 +1,10 @@
 #### My life is boring
-- 👋 Olá,meu nome é @taeuany
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hii,meu nome é @kauany
+- 👀 
+- 🌱 
+- 💞️ 
+- 📫 
 
 <!---
-taeuany/taeuany is a ✨ special ✨ 
+kauany/kauany is a ✨ special ✨ 
 --->
